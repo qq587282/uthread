@@ -6,3 +6,4 @@
 *.ipch
 *.opendb
 /.vs/ProjectSettings.json
+/.vs/uthread/v15/Browse.VC.db
